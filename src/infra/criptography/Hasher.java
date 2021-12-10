@@ -1,6 +1,6 @@
-package infra;
+package infra.criptography;
 
-import data.contracts.IHasher;
+import data.contracts.criptography.IHasher;
 
 public class Hasher implements IHasher {
     @Override
